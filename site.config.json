@@ -1,0 +1,25 @@
+{
+  "repo": "wims-game-mobile",
+  "siteName": "Wim Game Mobile",
+  "logoText": "game",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Game Mobile",
+  "description": "Deskripsi meta Wim Game Mobile.",
+  "ogTitle": "Judul OG<br>untuk Wim Game Mobile",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "game",
+  "categoryLabel": "Game",
+  "parent": "wims-game",
+  "children": [],
+  "related": [
+    "wims-game"
+  ],
+  "brand": {
+    "accent": "#8b5cf6",
+    "accent2": "#7c3aed"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
