@@ -3,6 +3,8 @@ title: "Genre Game Mobile Paling Populer yang Wajib Kamu Coba"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Kenali beragam genre game mobile paling populer seperti battle royale, MOBA, RPG, dan casual, lengkap dengan karakteristiknya untuk memilih game yang tepat."
+meta_title: "Genre Game Mobile Paling Populer yang Wajib Dicoba"
+meta_description: "Kenali genre game mobile paling populer seperti battle royale, MOBA, RPG, hingga casual. Temukan ciri khas tiap genre agar bisa memilih game yang tepat."
 tags: ["genre", "game mobile", "mobile gaming", "gaming"]
 ---
 

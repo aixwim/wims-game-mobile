@@ -3,6 +3,8 @@ title: "Tips Hemat Kuota dan Baterai Saat Bermain Game Mobile"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Panduan praktis menghemat kuota internet dan baterai ponsel saat bermain game mobile agar bermain tetap seru tanpa boros."
+meta_title: "Tips Hemat Kuota dan Baterai Saat Main Game Mobile"
+meta_description: "Main game mobile lebih lama tanpa khawatir kuota habis dan baterai terkuras. Terapkan tips hemat kuota dan baterai yang mudah dilakukan sehari-hari."
 tags: ["hemat kuota", "hemat baterai", "tips gaming"]
 ---
 

@@ -3,6 +3,8 @@ title: "Fenomena Gacha di Game Mobile: Seru atau Menjebak?"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Mengenal sistem gacha di game mobile, dari cara kerja peluang, mekanisme pity, hingga tips bermain sehat agar tidak terjebak pengeluaran berlebihan."
+meta_title: "Fenomena Gacha di Game Mobile dan Cara Bermain Sehat"
+meta_description: "Gacha di game mobile seru namun berisiko boros jika tak terkendali. Kenali cara kerja peluang dan sistem pity agar tetap bisa bermain dengan sehat."
 tags: ["gacha", "game mobile", "gaming", "tips gaming"]
 ---
 

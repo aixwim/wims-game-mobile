@@ -3,6 +3,8 @@ title: "Cara Bergabung ke Komunitas Game Mobile"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Panduan menemukan dan bergabung dengan komunitas game mobile agar pengalaman bermain lebih seru, mulai dari media sosial hingga forum dan grup diskusi."
+meta_title: "Cara Bergabung ke Komunitas Game Mobile yang Sehat"
+meta_description: "Cari tahu cara menemukan dan bergabung dengan komunitas game mobile yang sehat. Pelajari manfaat, etika, dan tips aman agar bermain makin seru."
 tags: ["komunitas game", "game mobile", "bermain bersama"]
 ---
 

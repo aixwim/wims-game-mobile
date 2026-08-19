@@ -3,6 +3,8 @@ title: "Cara Streaming Game Mobile Langsung dari Handphone"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Panduan mulai streaming game mobile dari handphone, mulai dari peralatan minimal, aplikasi yang digunakan, hingga tips menjaga kuota dan interaksi penonton."
+meta_title: "Cara Streaming Game Mobile Langsung dari HP"
+meta_description: "Ingin mulai streaming game mobile dari handphone? Pelajari peralatan minimal, aplikasi, hingga tips menjaga kuota dan interaksi penonton."
 tags: ["streaming", "game mobile", "komunitas", "kuota"]
 ---
 

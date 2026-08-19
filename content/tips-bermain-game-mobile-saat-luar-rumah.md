@@ -3,6 +3,8 @@ title: "Tips Bermain Game Mobile Saat di Luar Rumah"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Panduan agar tetap bisa bermain game mobile seru dan aman saat di luar rumah, mulai dari koneksi internet hingga menjaga baterai dan keamanan diri."
+meta_title: "Tips Aman Bermain Game Mobile Saat di Luar Rumah"
+meta_description: "Bermain game mobile di luar rumah tetap seru jika tahu caranya. Simak tips menjaga koneksi, menghemat baterai, dan menjaga keamanan diri saat bermain."
 tags: ["tips gaming", "game mobile", "kuota", "smartphone"]
 ---
 

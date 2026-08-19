@@ -3,6 +3,8 @@ title: "Game Mobile Populer 2026: Tren yang Sedang Naik"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Simak tren game mobile populer 2026, mulai dari genre battle royale, RPG, hingga casual gaming, beserta tips agar tetap seru dan hemat kuota."
+meta_title: "Game Mobile Populer 2026 dan Tren yang Sedang Naik"
+meta_description: "Simak tren game mobile populer 2026, dari battle royale, RPG, hingga casual. Temukan tips memilih game yang tepat agar tetap seru dan hemat kuota."
 tags: ["game mobile", "tren game", "mobile gaming"]
 ---
 

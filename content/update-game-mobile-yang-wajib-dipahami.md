@@ -3,6 +3,8 @@ title: "Update Game Mobile: Hal yang Wajib Kamu Pahami"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Kenali jenis-jenis pembaruan game mobile, manfaatnya bagi pemain, serta cara mengelolanya dengan bijak agar tidak boros kuota atau membebani perangkat."
+meta_title: "Update Game Mobile dan Cara Mengelolanya dengan Bijak"
+meta_description: "Pahami jenis-jenis update game mobile, manfaatnya bagi pemain, serta cara mengelolanya dengan bijak agar tidak boros kuota atau membebani perangkat."
 tags: ["update", "game mobile", "gaming", "kuota"]
 ---
 

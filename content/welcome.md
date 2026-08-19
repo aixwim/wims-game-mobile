@@ -3,6 +3,8 @@ title: "Selamat Datang di Wim Game Mobile"
 date: "2026-08-18"
 category: "Perkenalan"
 excerpt: "Wim Game Mobile — Deskripsi meta Wim Game Mobile."
+meta_title: "Selamat Datang di Wim Game Mobile"
+meta_description: "Selamat datang di Wim Game Mobile, portal berbahasa Indonesia yang membahas game mobile & komunitasnya. Jelajahi artikel terbaik dan temukan informasi"
 tags: ["perkenalan"]
 ---
 

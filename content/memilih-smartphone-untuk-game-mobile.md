@@ -3,6 +3,8 @@ title: "Panduan Memilih Smartphone untuk Game Mobile"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Ketahui spesifikasi penting seperti chipset, RAM, dan kapasitas baterai agar smartphone pilihanmu mampu menjalankan game mobile favorit dengan mulus."
+meta_title: "Tips Memilih Smartphone untuk Game Mobile Favorit"
+meta_description: "Jangan salah pilih, ketahui spesifikasi smartphone untuk main game mobile. Mulai dari chipset, RAM, baterai, hingga koneksi internet yang stabil."
 tags: ["smartphone", "game mobile", "gaming", "tips gaming"]
 ---
 
